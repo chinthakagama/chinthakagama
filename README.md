@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chinthaka Gamage
+- 👋 Hi, I’m Chathura Gamage
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning to develop my skilss, following my Data Science Master
 - 💞️ I’m looking to collaborate on Data Science attributes
