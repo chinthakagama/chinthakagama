@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chathura Gamage
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning to develop my skilss, following my Data Science Master
-- 💞️ I’m looking to collaborate on Data Science attributes
+- 👀 I’m interested in Data Analytics as swiched
+- 🌱 I’m currently learning to develop my skilss, following Data Science projects, as completed my master's in Data Science
+- 💞️ I’m looking to collaborate on Data Science/ Sata Analytics communities
 - 📫 How to reach me chinthakagama1@gmail.cm
 - 😄 Pronouns: He..
 - ⚡ Fun fact: Listn music...
