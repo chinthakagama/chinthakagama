@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chathura Gamage
+- 👋 Hi, I’m Chathura Morakanda
 - 👀 I’m interested in Data Analytics as swiched
 - 🌱 I’m currently learning to develop my skilss, following Data Science projects, as completed my master's in Data Science
 - 💞️ I’m looking to collaborate on Data Science/ Sata Analytics communities
