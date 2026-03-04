@@ -1,12 +1,53 @@
-- 👋 Hi, I’m Chathura Morakanda
-- 👀 I’m interested in Data Analytics as swiched
-- 🌱 I’m currently learning to develop my skilss, following Data Science projects, as completed my master's in Data Science
-- 💞️ I’m looking to collaborate on Data Science/ Sata Analytics communities
-- 📫 How to reach me chathur.analytics@gmail.com
-- 😄 Pronouns: He..
-- ⚡ Fun fact: Listn music...
+👋 Hi, I'm Chathura Morakanda
+Data Analytics | Data Cleaning | Business Intelligence | Engineering Strategy
 
-<!---
-chinthakagama/chinthakagama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in transforming messy, unstructured datasets into analysis-ready formats that drive actionable business insights.
+
+With a background in Engineering Management and over 20 years of experience across aviation, industrial operations, and quality assurance, I combine structured problem-solving with modern data analytics tools to support data-driven decision making.
+
+🔍 What I Do
+
+Data Cleaning & Preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Business Intelligence Reporting
+
+Dashboard Development (Excel / Python)
+
+Multi-Table Data Modeling
+
+Statistical & Forecast Modeling
+
+🛠 Tools & Technologies
+
+Python | Pandas | NumPy | Matplotlib | Seaborn
+Excel | Power Query | Pivot Tables | Dashboard Design
+SQL | BigQuery
+Git | GitHub | Kaggle
+
+📊 Portfolio Projects
+
+📈 Retail Sales Performance Analysis
+
+🛒 Brazilian E-Commerce (Olist) Multi-Table Analysis
+
+📉 Discount vs Profitability Deep Dive
+
+More projects available in my repositories below.
+
+🎯 Current Focus
+
+Building advanced end-to-end analytics projects focused on:
+
+Revenue optimization
+
+Margin improvement
+
+Operational efficiency
+
+Business performance forecasting
+
+📬 Let’s Connect
+
+Open to freelance analytics projects, collaboration, and business intelligence consulting.
